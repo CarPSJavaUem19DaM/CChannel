@@ -1,2 +1,2 @@
 # CChannel
-![](https://github.com/CarPSJavaUem19DaM/CChanel/blob/master/CChanel.PNG)
+![](https://github.com/CarPSJavaUem19DaM/CChannel/blob/master/CChannel.png)
