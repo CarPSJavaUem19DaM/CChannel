@@ -1,0 +1,30 @@
+.mybutton{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white
+}
+
+.mybutton:hover{
+	-fx-background-color: red;
+	-fx-border-color: red;
+	-fx-text-fill: white;	 
+}
+
+.mytitle{
+    /*-fx-font-family: "HipsterishFontNormal";*/
+    -fx-font-family: "Shadows Into Light";
+    -fx-font-size: 36.0px;
+    
+}
+
+.mypane{
+	-fx-background-color: linear-gradient(#852382, #ED8DEA);	 
+	}
+	
+.pane2{
+	-fx-background-image: url("images/berenjena.png");	 
+	-fx-background-size: 85%;
+	-fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-color: #D8A9D5;
+	}
